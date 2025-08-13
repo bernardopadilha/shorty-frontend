@@ -1,6 +1,7 @@
-Shorty
+🟢  ## Shorty
 ---
 
+## Iniciar Projeto
 Para rodar o projeto primeiro instale todas as denpendências:
 
 ```
@@ -14,6 +15,8 @@ pnpm dev
 ```
 
 ---
+
+## Conectar com Back-End
 
 Pronto seu projeto já estará rodando localmente. 
 Agora para conectar a aplicação com o back-end, você deve criar um arquivo .env na raiz do projeto e seguir as mesmas credenciais do .env.example
