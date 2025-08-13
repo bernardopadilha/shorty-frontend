@@ -1,7 +1,6 @@
-🟢  ## Shorty
+🟢 Shorty
 ---
 
-## Iniciar Projeto
 Para rodar o projeto primeiro instale todas as denpendências:
 
 ```
